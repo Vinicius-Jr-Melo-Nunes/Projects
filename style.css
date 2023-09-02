@@ -1,0 +1,17 @@
+*{
+    background-color:#f6f6f6;
+}
+
+h1{
+    text-decoration:underline;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    float:left;
+    width: 250px;
+    height: 250px;
+    background-color:aliceblue;
+    
+}
